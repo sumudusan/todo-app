@@ -7,6 +7,7 @@ function App() {
     <>
     <div className='bg-red-300'>Hello</div>
     <h1>Hello</h1>
+    <h2>hii</h2>
     </>
   )
 }
